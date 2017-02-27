@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinKittenDemo</string>
+    <string name="cat_image">cat_image</string>
+</resources>
